@@ -1,0 +1,1 @@
+# Vertical-Ground-Motion-Model-for-the-NGA-West2-Database-Using-Deep-Learning-method
